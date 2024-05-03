@@ -29,7 +29,7 @@
 
 ### :man_technologist: Soy un desarrollador Front End de Argentina.
   
-- :telescope: Estudiando y diseñando contenido Front End, especializado en ReacJS.
+- :telescope: Estudiando y diseñando contenido Front End, especializado en AngularJS.
 
 - :seedling: La vida es un constante aprendizaje.
 
